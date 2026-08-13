@@ -41,4 +41,4 @@ If this policy changes, the updated version will be posted at this URL with a ne
 
 ## Contact
 
-**kylel1213@gmail.com**
+Reach us through [the contact form](https://www.sampleshot.studio/contact.html).
