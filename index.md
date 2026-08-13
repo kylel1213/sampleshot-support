@@ -28,6 +28,6 @@ Open SampleShot → Settings → **Restore Purchases** while signed into the sam
 
 ## Contact
 
-Questions, bug reports, feature requests: **kylel1213@gmail.com**
+Questions, bug reports, feature requests: use [the contact form](https://www.sampleshot.studio/contact.html).
 
 [Privacy Policy](./privacy)
